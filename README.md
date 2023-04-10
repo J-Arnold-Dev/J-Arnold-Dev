@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-Arnold-Dev
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning html, css yet to start java script
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on life/career changing project
 - 📫 How to reach me jesutomilayo7@gmail.com/08164005327
 
